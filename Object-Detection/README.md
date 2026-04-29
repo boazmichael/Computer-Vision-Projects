@@ -44,8 +44,8 @@ For the task MakeSense was used though you may use any of your preference, and t
 
 ## The Dataset structure:  
   your_datset:  
-  >dataset:  
-      train:  
+  >dataset:
+  >>train:  
         images  
           frsme_01.jpeg  
           ..

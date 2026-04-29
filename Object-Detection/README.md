@@ -46,17 +46,17 @@ For the task MakeSense was used though you may use any of your preference, and t
   your_datset:  
   >dataset:
   >>train:  
-        images  
-          frsme_01.jpeg  
-          ..
-        labels:  
-          frame_01.txt  
-          ..
-      val:  
-        images:  
-          frsme_12.jpeg  
-          ..
-        labels:  
-          frsme_12.txt  
-          ..
-    dataset.yaml  
+  >>>images  
+  >>>>frsme_01.jpeg  
+  >>>>..
+  >>>labels:  
+  >>>>frame_01.txt  
+  >>>>..
+  >>val:  
+  >>>images:  
+  >>>>frsme_12.jpeg  
+  >>>>..
+  >>>labels:  
+  >>>>frsme_12.txt  
+  >>>>..
+  >dataset.yaml  

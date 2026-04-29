@@ -48,8 +48,8 @@ For the task MakeSense was used though you may use any of your preference, and t
   >>train:  
   >>>images  
   >>>>frsme_01.jpeg  
-  >>>>..
-  <labels:  
+  >>>>...
+labels:  
   >>>>frame_01.txt  
   >>>>..
   >>val:  

@@ -52,12 +52,15 @@ For the task MakeSense was used though you may use any of your preference, and t
   >>>
   >>>labels:  
   >>>>frame_01.txt  
-  >>>>..
+  >>>>...
+  >>
   >>val:  
   >>>images:  
   >>>>frsme_12.jpeg  
-  >>>>..
+  >>>>...
+  >>>
   >>>labels:  
   >>>>frsme_12.txt  
-  >>>>..
+  >>>>...
+  >
   >dataset.yaml  

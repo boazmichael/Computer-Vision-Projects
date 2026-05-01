@@ -25,13 +25,13 @@ This is the README file for implementing jupyter notebook for computer vision us
 
 ### Verify in Jupyter Notebook  
   In the top right corner, click on the kernel name (usually "Python 3") and change it to "Python (YOLO)":  
-  In the cell Run:  
+  In the cell run:  
   import torch  
   
-  Check if PyTorch is installed  
+  Check if PyTorch is installed:  
   print(f"PyTorch Version: {torch.__version__}")  
   
-  Check if your GPU is being detected (optional)  
+  Check if your GPU is being detected (optional):
   print(f"Is GPU available? {torch.cuda.is_available()}")  
   
 ## If Jupyter Notebook not installed:  
